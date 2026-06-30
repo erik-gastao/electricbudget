@@ -91,4 +91,4 @@ Hierarquia visual:
 ## Equipe
 
 - Erik Gastão
-- [Colega](https://github.com/cCarpa25)
+- Ana Luisa(https://github.com/cCarpa25)
