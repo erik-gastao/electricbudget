@@ -22,9 +22,9 @@
   }
 
   .phone {
-    aspect-ratio: 9 / 16;
-    height: min(667px, calc(100vh - 32px));
-    height: min(667px, calc(100dvh - 32px));
+    aspect-ratio: 9 / 19.5;
+    height: min(812px, calc(100vh - 32px));
+    height: min(812px, calc(100dvh - 32px));
     width: auto;
     max-width: 100%;
     background: var(--surface);
